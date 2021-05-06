@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/10.png
+img_path: images/spectacular-cabbage.png
 form_id: contactForm
 form_action: /success
 form_fields:
