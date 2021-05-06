@@ -59,7 +59,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; BHA UK. All rights reserved. This Jamstack site was created with Stackbit."
+        "content": "© BHA UK. All rights reserved."
     },
     "domain": "https://www.bhauk.org.uk/"
 }
