@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Youth
 subtitle: lorem-ipsum
 seo:
   title: ''
