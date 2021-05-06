@@ -21,6 +21,15 @@
                 "style": "link"
             },
             {
+                "label": "Youth",
+                "url": "/youth",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
@@ -29,15 +38,6 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Youth",
-                "url": "/youth",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": true,
