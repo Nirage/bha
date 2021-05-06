@@ -1,5 +1,5 @@
 ---
-title: Youth
+title: BHA Youth
 subtitle: lorem-ipsum
 seo:
   title: ''
