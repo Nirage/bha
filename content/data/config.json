@@ -33,7 +33,7 @@
             {
                 "label": "Youth",
                 "url": "/youth",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,
