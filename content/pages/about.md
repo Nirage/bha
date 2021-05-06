@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Us
 subtitle: This is a short page about me and my work
 img_path: images/purple-sloth.png
 seo:
